@@ -9,3 +9,4 @@ fi
 virtualenv --no-site-packages $PYENV_HOME
 . $PYENV_HOME/bin/activate
 pip install --quiet nosexcover
+pip install --quiet Flask
