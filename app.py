@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!.pyenv/bin/python
 
 from flask import Flask
 
